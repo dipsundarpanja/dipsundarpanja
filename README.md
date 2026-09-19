@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me<br><br>Hi, I'm **Dipsundar Panja**, a **Junior Full-Stack Developer** from Kolkata, India.<br><br>🔭 Building full-stack web applications with modern technologies  <br>🧑‍💻 Working with React.js, JavaScript, Node.js, Express.js and ASP.NET Core  <br>🗄️ Working with MySQL, SQL Server and MongoDB  <br>🔐 Implementing authentication and secure API workflows  <br>⚡ Building real-time features using Socket.IO  <br>🤖 Automating database operations using Shell & PowerShell  <br>🌱 Continuously learning and improving my backend & full-stack skills  <br>🤝 Interested in building practical and scalable software
 
 
